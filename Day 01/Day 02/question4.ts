@@ -1,1 +1,0 @@
-console.log('\"Newton said that, \"No great discovery was ever made without a bold guess.\"');
